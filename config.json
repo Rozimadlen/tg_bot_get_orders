@@ -1,0 +1,22 @@
+{
+  "days_back": 0,
+  "hours_back": 1,
+  "min_length": 30,
+  "max_messages_per_chat": 500,
+  "keywords_file": "keywords.txt",
+  "chats_file": "chats.txt",
+  "save_csv": true,
+  "save_json": true,
+  "use_natasha": true,
+  "export_dir": "data/exports",
+  "log_dir": "data/logs",
+  "forward_to": "env",
+  "time_search_mode": "hours",
+  "verbose_logs": false,
+  "enable_auto_reply": false,
+  "max_replies_per_day": 30,
+  "work_hours_start": 9,
+  "work_hours_end": 21,
+  "min_quality_for_reply": 0,
+  "enable_together_ai": true
+}
